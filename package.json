@@ -1,0 +1,13 @@
+{
+  "name": "tu-logger",
+  "description": "Un n-ième logger pour node",
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tulare/tu-logger.git"
+  },
+  "main": "index.js",
+  "author": "tulare <tulare.paxgalactica@gmail.com>",
+  "license": "ISC"
+}
